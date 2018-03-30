@@ -1,0 +1,9 @@
+*.s#*
+*.b#*
+*.l#*
+*.*Preview
+History
+*.*Structure
+*.*LOG
+*.htm
+*.html
